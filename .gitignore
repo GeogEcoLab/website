@@ -1,0 +1,6 @@
+*.Rproj
+public/
+resources/_gen/
+.Rproj.user/
+.Rproj.user
+*.hugo_build.lock*
